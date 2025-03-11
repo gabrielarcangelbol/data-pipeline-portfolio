@@ -1,0 +1,47 @@
+## [2025-02-26 16:23:09]
+### Added
+- New rows added: 2006
+- Missing data counts: 2981
+### Fixed
+- Fixed missing table errors for `cademycode_courses`
+### Changed
+- Combined tables into `cademycode_final_local`
+
+Version 1.0.1
+- New rows added: 100
+- Missing data counts: 0## [2025-02-26 16:25:51]
+### Added
+- New rows added: 2006
+- Missing data counts: 2981
+### Fixed
+- Fixed missing table errors for `cademycode_courses`
+### Changed
+- Combined tables into `cademycode_final_local`
+
+## [2025-02-26 16:28:16]
+### Added
+- New rows added: 2301
+- Missing data counts: 3075
+### Fixed
+- Fixed missing table errors for `cademycode_courses`
+### Changed
+- Combined tables into `cademycode_final_local`
+
+## [2025-02-26 16:28:50]
+### Added
+- New rows added: 2301
+- Missing data counts: 3075
+### Fixed
+- Fixed missing table errors for `cademycode_courses`
+### Changed
+- Combined tables into `cademycode_final_local`
+
+## [2025-02-26 16:31:47]
+### Added
+- New rows added: 2301
+- Missing data counts: 3075
+### Fixed
+- Fixed missing table errors for `cademycode_courses`
+### Changed
+- Combined tables into `cademycode_final_local`
+

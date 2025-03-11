@@ -1,0 +1,130 @@
+2025-02-26 16:23:09,279:INFO:Reading data from the database.
+2025-02-26 16:23:09,281:INFO:Data from cademycode_courses read successfully.
+2025-02-26 16:23:09,282:INFO:Data from cademycode_student_jobs read successfully.
+2025-02-26 16:23:09,300:INFO:Data from cademycode_students read successfully.
+2025-02-26 16:23:09,300:INFO:Converting job_id columns to integers.
+2025-02-26 16:23:09,304:INFO:Merging tables.
+2025-02-26 16:23:09,313:INFO:Length of DataFrame before merge: 5000
+2025-02-26 16:23:09,314:INFO:Length of DataFrame after merge: 7006
+2025-02-26 16:23:09,317:INFO:Missing values in the final DataFrame: uuid                        0
+name                        0
+dob                         0
+sex                         0
+contact_info                0
+job_id                      0
+num_course_taken          353
+current_career_path_id      0
+time_spent_hrs            657
+job_category                0
+avg_salary                  0
+career_path_id            657
+career_path_name          657
+hours_to_complete         657
+dtype: int64
+2025-02-26 16:23:09,319:INFO:Saving the final DataFrame to a new SQLite database.
+2025-02-26 16:23:09,416:INFO:Saving the final DataFrame to a CSV file.
+2025-02-26 16:23:09,475:INFO:Final CSV and SQLite database created successfully.
+2025-02-26 16:25:51,114:INFO:Reading data from the database.
+2025-02-26 16:25:51,116:INFO:Data from cademycode_courses read successfully.
+2025-02-26 16:25:51,117:INFO:Data from cademycode_student_jobs read successfully.
+2025-02-26 16:25:51,135:INFO:Data from cademycode_students read successfully.
+2025-02-26 16:25:51,136:INFO:Converting job_id columns to integers.
+2025-02-26 16:25:51,138:INFO:Merging tables.
+2025-02-26 16:25:51,149:INFO:Length of DataFrame before merge: 5000
+2025-02-26 16:25:51,149:INFO:Length of DataFrame after merge: 7006
+2025-02-26 16:25:51,151:INFO:Missing values in the final DataFrame: uuid                        0
+name                        0
+dob                         0
+sex                         0
+contact_info                0
+job_id                      0
+num_course_taken          353
+current_career_path_id      0
+time_spent_hrs            657
+job_category                0
+avg_salary                  0
+career_path_id            657
+career_path_name          657
+hours_to_complete         657
+dtype: int64
+2025-02-26 16:25:51,152:INFO:Saving the final DataFrame to a new SQLite database.
+2025-02-26 16:25:51,266:INFO:Saving the final DataFrame to a CSV file.
+2025-02-26 16:25:51,323:INFO:Final CSV and SQLite database created successfully.
+2025-02-26 16:28:15,943:INFO:Reading data from the database.
+2025-02-26 16:28:15,946:INFO:Data from cademycode_courses read successfully.
+2025-02-26 16:28:15,947:INFO:Data from cademycode_student_jobs read successfully.
+2025-02-26 16:28:15,968:INFO:Data from cademycode_students read successfully.
+2025-02-26 16:28:15,968:INFO:Converting job_id columns to integers.
+2025-02-26 16:28:15,972:INFO:Merging tables.
+2025-02-26 16:28:15,984:INFO:Length of DataFrame before merge: 6000
+2025-02-26 16:28:15,984:INFO:Length of DataFrame after merge: 8301
+2025-02-26 16:28:15,987:INFO:Missing values in the final DataFrame: uuid                        0
+name                        0
+dob                         0
+sex                         0
+contact_info                0
+job_id                      0
+num_course_taken          371
+current_career_path_id      0
+time_spent_hrs            676
+job_category                0
+avg_salary                  0
+career_path_id            676
+career_path_name          676
+hours_to_complete         676
+dtype: int64
+2025-02-26 16:28:15,987:INFO:Saving the final DataFrame to a new SQLite database.
+2025-02-26 16:28:16,117:INFO:Saving the final DataFrame to a CSV file.
+2025-02-26 16:28:16,178:INFO:Final CSV and SQLite database created successfully.
+2025-02-26 16:28:50,073:INFO:Reading data from the database.
+2025-02-26 16:28:50,076:INFO:Data from cademycode_courses read successfully.
+2025-02-26 16:28:50,077:INFO:Data from cademycode_student_jobs read successfully.
+2025-02-26 16:28:50,102:INFO:Data from cademycode_students read successfully.
+2025-02-26 16:28:50,102:INFO:Converting job_id columns to integers.
+2025-02-26 16:28:50,106:INFO:Merging tables.
+2025-02-26 16:28:50,121:INFO:Length of DataFrame before merge: 6000
+2025-02-26 16:28:50,121:INFO:Length of DataFrame after merge: 8301
+2025-02-26 16:28:50,125:INFO:Missing values in the final DataFrame: uuid                        0
+name                        0
+dob                         0
+sex                         0
+contact_info                0
+job_id                      0
+num_course_taken          371
+current_career_path_id      0
+time_spent_hrs            676
+job_category                0
+avg_salary                  0
+career_path_id            676
+career_path_name          676
+hours_to_complete         676
+dtype: int64
+2025-02-26 16:28:50,125:INFO:Saving the final DataFrame to a new SQLite database.
+2025-02-26 16:28:50,289:INFO:Saving the final DataFrame to a CSV file.
+2025-02-26 16:28:50,365:INFO:Final CSV and SQLite database created successfully.
+2025-02-26 16:31:47,552:INFO:Reading data from the database.
+2025-02-26 16:31:47,555:INFO:Data from cademycode_courses read successfully.
+2025-02-26 16:31:47,555:INFO:Data from cademycode_student_jobs read successfully.
+2025-02-26 16:31:47,580:INFO:Data from cademycode_students read successfully.
+2025-02-26 16:31:47,581:INFO:Converting job_id columns to integers.
+2025-02-26 16:31:47,585:INFO:Merging tables.
+2025-02-26 16:31:47,598:INFO:Length of DataFrame before merge: 6000
+2025-02-26 16:31:47,598:INFO:Length of DataFrame after merge: 8301
+2025-02-26 16:31:47,602:INFO:Missing values in the final DataFrame: uuid                        0
+name                        0
+dob                         0
+sex                         0
+contact_info                0
+job_id                      0
+num_course_taken          371
+current_career_path_id      0
+time_spent_hrs            676
+job_category                0
+avg_salary                  0
+career_path_id            676
+career_path_name          676
+hours_to_complete         676
+dtype: int64
+2025-02-26 16:31:47,603:INFO:Saving the final DataFrame to a new SQLite database.
+2025-02-26 16:31:47,736:INFO:Saving the final DataFrame to a CSV file.
+2025-02-26 16:31:47,797:INFO:Final CSV and SQLite database created successfully.
