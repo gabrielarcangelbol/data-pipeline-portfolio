@@ -1,6 +1,4 @@
 ---
-### README.md
-
 # Data Pipeline Update Process
 
 ## Overview
