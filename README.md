@@ -1,5 +1,8 @@
 ---
-# Data Pipeline Update Process
+# Gabriel Arcangel Bol - Data Pipeline Update Process
+
+## About Me
+Passionate data technologist focused on continuous learning and improvement. Skilled in data engineering, data science, and analysis. Dedicated to actionable insights.
 
 ## Overview
 For this project, you’ll build a data engineering pipeline to regularly transform a messy database into a clean source of truth for an analytics team.
@@ -185,5 +188,8 @@ For this particular project, you will be using Jupyter Notebooks, bash scripting
 - Getting Started with Jupyter
 
 By following these steps and using the provided resources, you should be able to successfully run the code and understand the project structure and analysis.
+
+## Contact
+Feel free to reach out to me for questions, comments, or more information about my projects. You can contact me at gabrielarcangelbol@gmail.com.
 
 ---
